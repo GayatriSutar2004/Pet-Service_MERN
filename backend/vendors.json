@@ -1,0 +1,31 @@
+{
+  "vendors": [
+    {
+      "title": "Vivanta New Delhi, Dwarka",
+      "viewsCount": 4,
+      "photo": "https://example.com/photo.jpg",
+      "category": "Travel & Accommodation",
+      "vendorName": "Vivanta New Delhi Dwarka",
+      "city": "New Delhi",
+      "location": "Sector 21, Dwarka, New Delhi, India",
+      "latitude": 28.5562,
+      "longitude": 77.0856,
+      "phoneNumber": "+911166000000",
+      "rating": 4.4,
+      "numberOfRatings": 1200,
+      "subcategory": "Pet-friendly Hotels",
+      "tags": [
+        "Travel & Accommodation",
+        "Pet-friendly Hotels"
+      ],
+      "views": 4,
+      "amenities": [
+        "Free WiFi",
+        "Pet Friendly",
+        "Swimming Pool"
+      ],
+      "priceRange": "$$$",
+      "isVerified": true
+    }
+  ]
+}
