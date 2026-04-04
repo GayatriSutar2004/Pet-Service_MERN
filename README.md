@@ -212,17 +212,9 @@ GET /api/vendors/category/Travel & Accommodation
 
 ## Screenshots
 
-You can add screenshots here:
+### Dashboard Output
 
-* Dashboard view
-* File upload feature
-* Category chart
-
-Example:
-
-```
-![Dashboard Screenshot](screenshot.png)
-```
+![Pet Service Dashboard Output](https://github.com/GayatriSutar2004/Pet-Service_MERN/blob/master/Screenshot%202026-04-05%20005836.png)
 
 ---
 
