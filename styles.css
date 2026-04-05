@@ -1,0 +1,107 @@
+body {
+
+  margin: 0;
+
+  font-family: Arial, Helvetica, sans-serif;
+
+  background: #f4f6f9;
+
+}
+
+.container {
+
+  max-width: 1000px;
+
+  margin: auto;
+
+  padding: 40px;
+
+}
+
+.title {
+
+  text-align: center;
+
+  font-size: 34px;
+
+  font-weight: bold;
+
+  margin-bottom: 20px;
+
+  color: #286FB4;
+
+}
+
+.chart {
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: flex-end;
+
+  gap: 40px;
+
+  margin-top: 60px;
+
+}
+
+.bar-container {
+
+  text-align: center;
+
+}
+
+.bar {
+
+  width: 90px;
+
+  background: #f2d272;
+
+  border-radius: 12px;
+
+  transition: 0.3s;
+
+}
+
+.bar:hover {
+
+  transform: scale(1.05);
+
+  background: #e6c25a;
+
+}
+
+.upload-box {
+
+  text-align: center;
+
+  margin-top: 20px;
+
+}
+
+.upload-btn {
+
+  margin-top: 15px;
+
+  padding: 10px 20px;
+
+  background: #286FB4;
+
+  color: white;
+
+  border: none;
+
+  border-radius: 6px;
+
+  cursor: pointer;
+
+  font-size: 16px;
+
+}
+
+.upload-btn:hover {
+
+  background: #1f5a91;
+
+}
